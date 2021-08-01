@@ -14,9 +14,10 @@
   <td width="50%">
 
   <br><p align="center">Contacts<br><br>
-  [![](https://img.shields.io/static/v1?label=&message=lildatascientist&color=black&style=for-the-badge&logo=VK)](https://vk.com/lildatascientist)
-  [![](https://img.shields.io/static/v1?label=&message=lildatascientist&color=black&style=for-the-badge&logo=instagram)](https://www.instagram.com/lildatascientist)
-  [![](https://img.shields.io/static/v1?label=&message=lildatascientist&color=black&style=for-the-badge&logo=kaggle)](https://www.kaggle.com/lildatascientist)
+  [![](https://img.shields.io/static/v1?label=&message=vk&color=black&style=for-the-badge&logo=VK)](https://vk.com/lildatascientist)
+  [![](https://img.shields.io/static/v1?label=&message=instagram&color=black&style=for-the-badge&logo=instagram)](https://www.instagram.com/lildatascientist)
+  [![](https://img.shields.io/static/v1?label=&message=kaggle&color=black&style=for-the-badge&logo=kaggle)](https://www.kaggle.com/lildatascientist)
+  [![](https://img.shields.io/static/v1?label=&message=stackoverflow&color=black&style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/11678336/lil-data-scientist?tab=profile)
   </p>
     
   </td>
