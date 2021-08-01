@@ -2,7 +2,7 @@
   <tr>
     
   <td width="50%">
-
+    
   <br><h3 align="center">Skills<br><br>
   ![](https://img.shields.io/static/v1?label=&message=Python&color=black&style=for-the-badge&logo=Python)
   ![](https://img.shields.io/static/v1?label=&message=Node.JS&color=black&style=for-the-badge&logo=Node.JS)
@@ -26,8 +26,24 @@
   [![](https://img.shields.io/static/v1?label=&message=kaggle&color=black&style=for-the-badge&logo=kaggle)](https://www.kaggle.com/lildatascientist)
   [![](https://img.shields.io/static/v1?label=&message=stackoverflow&color=black&style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/11678336/lil-data-scientist?tab=profile)
   [![](https://img.shields.io/static/v1?label=&message=github&color=black&style=for-the-badge&logo=github)](https://github.com/LilDataScientist)
+  ![](https://img.shields.io/static/v1?label=&message=jupyter&color=black&style=for-the-badge&logo=jupyter)
   </h3>
     
   </td>
+    
+</tr>
+  
+  
+  <td width="50%">
+
+  <br><h3 align="center">Familiar with<br><br>
+  ![](https://img.shields.io/static/v1?label=&message=php&color=black&style=for-the-badge&logo=php)
+  ![](https://img.shields.io/static/v1?label=&message=QT&color=black&style=for-the-badge&logo=QT)
+  ![](https://img.shields.io/static/v1?label=&message=LaTeX&color=black&style=for-the-badge&logo=LaTeX)
+
+  </h3>
+    
+  </td>
+  
     
 </table>
