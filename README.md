@@ -1,16 +1,11 @@
-### Hi there 👋
+<table width="100%"> 
+  <tr>
+  <td width="100%">
 
-<!--
-**LilDataScientist/LilDataScientist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br><p align="center">Contacts<br><br>
+  ![https://vk.com/lildatascientist](https://img.shields.io/static/v1?label=&message=lildatascientist&color=black&style=for-the-badge&logo=VK)
+  ![https://www.instagram.com/lildatascientist/](https://img.shields.io/static/v1?label=&message=lildatascientist&color=black&style=for-the-badge&logo=instagram)
+  ![https://www.kaggle.com/lildatascientist](https://img.shields.io/static/v1?label=&message=lildatascientist&color=black&style=for-the-badge&logo=kaggle)
+  </p>
+  </td>
+</table>
