@@ -50,6 +50,8 @@
   ![](https://img.shields.io/static/v1?label=&message=php&color=black&style=for-the-badge&logo=php)
   ![](https://img.shields.io/static/v1?label=&message=QT&color=black&style=for-the-badge&logo=QT)
   ![](https://img.shields.io/static/v1?label=&message=LaTeX&color=black&style=for-the-badge&logo=LaTeX)
+  ![](https://img.shields.io/static/v1?label=&message=heroku&color=black&style=for-the-badge&logo=heroku)
+  ![](https://img.shields.io/static/v1?label=&message=vercel&color=black&style=for-the-badge&logo=vercel)
   </h3>
   </td>
     
