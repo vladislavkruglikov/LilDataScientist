@@ -4,7 +4,7 @@
   <td width="50%">
 
   <br><h3 align="center">Education<br><br></h3>
-   * *I am currently studying for a bachelor's in applied mathematics and computer science at Financial University under the Government of the Russian Federation*
+   * *I am currently studying for a bachelor's degree in applied mathematics and computer science at Financial University under the Government of the Russian Federation*
 
 
   </td>
