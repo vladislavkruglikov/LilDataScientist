@@ -18,7 +18,6 @@
   [![](https://img.shields.io/static/v1?label=&message=kaggle&color=black&style=for-the-badge&logo=kaggle)](https://www.kaggle.com/lildatascientist)
   [![](https://img.shields.io/static/v1?label=&message=stackoverflow&color=black&style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/11678336/lil-data-scientist?tab=profile)
   [![](https://img.shields.io/static/v1?label=&message=github&color=black&style=for-the-badge&logo=github)](https://github.com/LilDataScientist)
-  ![](https://img.shields.io/static/v1?label=&message=jupyter&color=black&style=for-the-badge&logo=jupyter)
   </h3>
     
   </td>
@@ -40,6 +39,7 @@
   ![](https://img.shields.io/static/v1?label=&message=html&color=black&style=for-the-badge&logo=html5)
   ![](https://img.shields.io/static/v1?label=&message=css&color=black&style=for-the-badge&logo=css3)
   ![](https://img.shields.io/static/v1?label=&message=git&color=black&style=for-the-badge&logo=git)
+  ![](https://img.shields.io/static/v1?label=&message=jupyter&color=black&style=for-the-badge&logo=jupyter)
   </h3>
     
   </td>
