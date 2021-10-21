@@ -1,5 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<br/>
+
 <a href="https://vk.com/lildatascientist">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://vk.com/images/icons/pwa/apple/default.png?13" />
 </a>
@@ -26,6 +28,8 @@
 hi, i'm [Vladislav Kruglikov](https://github.com/LilDataScientist), a passionate full stack data scientist and a ML & DL software engineer. Studying for a bachelor's degree in applied mathematics and computer science at Financial University under the Government of the Russian Federation
 
 ### Languages & Tools
+
+<br/>
 
 ![](https://img.shields.io/static/v1?label=&message=Python&color=black&style=for-the-badge&logo=Python)
 ![](https://img.shields.io/static/v1?label=&message=Node.JS&color=black&style=for-the-badge&logo=Node.JS)
