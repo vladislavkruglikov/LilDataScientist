@@ -14,7 +14,7 @@
 <a href="https://www.kaggle.com/lildatascientist">
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://www.kaggle.com/static/images/favicon.ico" />
 </a>
-<a href="https://stackoverflow.com/users/11678336/lil-data-scientist?tab=profile">
+<a href="https://stackoverflow.com/users/11678336/lil-data-scientist">
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196" />
 </a>
 <a href="https://github.com/LilDataScientist">
