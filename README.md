@@ -45,7 +45,7 @@ hi, i'm [Vladislav Kruglikov](https://github.com/LilDataScientist), a passionate
 
 ### 📈 My github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lildatascientist&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=lildatascientist&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 
 
