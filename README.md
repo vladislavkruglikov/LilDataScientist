@@ -25,24 +25,25 @@
 
 hi, i'm [Vladislav Kruglikov](https://github.com/LilDataScientist), a passionate full stack data scientist and a ML & DL software engineer. Studying for a bachelor's degree in applied mathematics and computer science at Financial University under the Government of the Russian Federation
 
-### languages and tools
-  ![](https://img.shields.io/static/v1?label=&message=Python&color=black&style=for-the-badge&logo=Python)
-  ![](https://img.shields.io/static/v1?label=&message=Node.JS&color=black&style=for-the-badge&logo=Node.JS)
-  ![](https://img.shields.io/static/v1?label=&message=React&color=black&style=for-the-badge&logo=React)
-  ![](https://img.shields.io/static/v1?label=&message=sklearn&color=black&style=for-the-badge&logo=scikitlearn)
-  ![](https://img.shields.io/static/v1?label=&message=notion&color=black&style=for-the-badge&logo=notion)
-  ![](https://img.shields.io/static/v1?label=&message=pycharm&color=black&style=for-the-badge&logo=pycharm)
-  ![](https://img.shields.io/static/v1?label=&message=html&color=black&style=for-the-badge&logo=html5)
-  ![](https://img.shields.io/static/v1?label=&message=css&color=black&style=for-the-badge&logo=css3)
-  ![](https://img.shields.io/static/v1?label=&message=git&color=black&style=for-the-badge&logo=git)
-  ![](https://img.shields.io/static/v1?label=&message=jupyter&color=black&style=for-the-badge&logo=jupyter)
-   ![](https://img.shields.io/static/v1?label=&message=php&color=black&style=for-the-badge&logo=php)
-  ![](https://img.shields.io/static/v1?label=&message=QT&color=black&style=for-the-badge&logo=QT)
-  ![](https://img.shields.io/static/v1?label=&message=LaTeX&color=black&style=for-the-badge&logo=LaTeX)
-  ![](https://img.shields.io/static/v1?label=&message=heroku&color=black&style=for-the-badge&logo=heroku)
-  ![](https://img.shields.io/static/v1?label=&message=vercel&color=black&style=for-the-badge&logo=vercel)
+### Languages & Tools
 
-📈 my github stats
+![](https://img.shields.io/static/v1?label=&message=Python&color=black&style=for-the-badge&logo=Python)
+![](https://img.shields.io/static/v1?label=&message=Node.JS&color=black&style=for-the-badge&logo=Node.JS)
+![](https://img.shields.io/static/v1?label=&message=React&color=black&style=for-the-badge&logo=React)
+![](https://img.shields.io/static/v1?label=&message=sklearn&color=black&style=for-the-badge&logo=scikitlearn)
+![](https://img.shields.io/static/v1?label=&message=notion&color=black&style=for-the-badge&logo=notion)
+![](https://img.shields.io/static/v1?label=&message=pycharm&color=black&style=for-the-badge&logo=pycharm)
+![](https://img.shields.io/static/v1?label=&message=html&color=black&style=for-the-badge&logo=html5)
+![](https://img.shields.io/static/v1?label=&message=css&color=black&style=for-the-badge&logo=css3)
+![](https://img.shields.io/static/v1?label=&message=git&color=black&style=for-the-badge&logo=git)
+![](https://img.shields.io/static/v1?label=&message=jupyter&color=black&style=for-the-badge&logo=jupyter)
+![](https://img.shields.io/static/v1?label=&message=php&color=black&style=for-the-badge&logo=php)
+![](https://img.shields.io/static/v1?label=&message=QT&color=black&style=for-the-badge&logo=QT)
+![](https://img.shields.io/static/v1?label=&message=LaTeX&color=black&style=for-the-badge&logo=LaTeX)
+![](https://img.shields.io/static/v1?label=&message=heroku&color=black&style=for-the-badge&logo=heroku)
+![](https://img.shields.io/static/v1?label=&message=vercel&color=black&style=for-the-badge&logo=vercel)
+
+### 📈 My github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lildatascientist&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
