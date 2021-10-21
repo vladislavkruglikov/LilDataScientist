@@ -43,9 +43,9 @@ hi, i'm [Vladislav Kruglikov](https://github.com/LilDataScientist), a passionate
 ![](https://img.shields.io/static/v1?label=&message=heroku&color=black&style=for-the-badge&logo=heroku)
 ![](https://img.shields.io/static/v1?label=&message=vercel&color=black&style=for-the-badge&logo=vercel)
 
-### 📈 My github stats
+<!-- ### 📈 My github stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=lildatascientist&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=lildatascientist&show_icons=true&theme=gotham" alt="abhisheknaiidu" /> -->
 
 
 
