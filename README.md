@@ -25,7 +25,7 @@
 
 <br />
 
-hi, i'm [Vladislav Kruglikov](https://github.com/LilDataScientist), a passionate full stack data scientist and a ML & DL software engineer. Studying for a bachelor's degree in applied mathematics and computer science at Financial University under the Government of the Russian Federation
+hi, i'm [Vladislav Kruglikov](https://github.com/LilDataScientist), a passionate full stack data scientist and a ML & DL student. Studying for a bachelor's degree in applied mathematics and computer science at Financial University under the Government of the Russian Federation
 
 ### Languages & Tools
 
