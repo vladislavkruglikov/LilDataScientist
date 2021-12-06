@@ -1,16 +1,16 @@
 # Overview 
 
-### 🐱‍👤 About me
+### 👤 About me
 
-- 💼 I'm [Vladislav Kruglikov](https://github.com/LilDataScientist), a passionate full stack data scientist and a ML & DL student. Studying for a bachelor's degree in applied mathematics and computer science at Financial University under the Government of the Russian Federation
+I'm [Vladislav Kruglikov](https://github.com/LilDataScientist), a passionate full stack data scientist and a ML & DL student. Studying for a bachelor's degree in applied mathematics and computer science at Financial University under the Government of the Russian Federation
 
 
-### 🐱‍🚀 My current projects
+### 🚀 My current projects
 
 - **[Covid Lung CT Image Segmentation](https://github.com/LilDataScientist/Covid-Lung-CT-Image-Segmentation/)** - Covid Lung CT Image Segmentation
 - **[Neural Network Framework](https://github.com/LilDataScientist/PyTorch-From-Scratch)** - PyTorch From Scratch.
   
-### 🐱‍🏍 Social Platform
+### 🏍 Social Platform
 
 <p align="left">
   <p align="left">
