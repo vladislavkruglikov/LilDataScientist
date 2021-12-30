@@ -1,7 +1,5 @@
 <!-- # Overview  -->
 
-![Screenshot 2021-12-31 at 01 13 20](https://user-images.githubusercontent.com/55096567/147791276-cb29009d-f3c8-4157-aced-032dd2a499dd.png)
-
 ### About me
 
 I'm [Vladislav Kruglikov](https://github.com/LilDataScientist), a passionate full stack data scientist and a ML & DL student. Studying for a bachelor's degree in applied mathematics and computer science at Financial University under the Government of the Russian Federation
