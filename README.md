@@ -1,6 +1,6 @@
 <!-- # Overview  -->
 
-![Screenshot 2021-12-27 at 15 45 53](https://user-images.githubusercontent.com/55096567/147473028-aec0000b-78e1-4084-8c75-415c4937d162.png)
+![Screenshot 2021-12-31 at 01 13 20](https://user-images.githubusercontent.com/55096567/147791276-cb29009d-f3c8-4157-aced-032dd2a499dd.png)
 
 ### About me
 
