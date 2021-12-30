@@ -32,7 +32,7 @@ I'm [Vladislav Kruglikov](https://github.com/LilDataScientist), a passionate ful
   </p>
 
 
-### My current projects
+### My recent projects
 
 - **[AI Search Engine](https://github.com/LilDataScientist/Search-Engine)**
 - **[Covid Lung CT Image Segmentation](https://github.com/LilDataScientist/Covid-Lung-CT-Image-Segmentation/)**
