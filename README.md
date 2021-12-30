@@ -34,8 +34,9 @@ I'm [Vladislav Kruglikov](https://github.com/LilDataScientist), a passionate ful
 
 ### My current projects
 
-- **[Covid Lung CT Image Segmentation](https://github.com/LilDataScientist/Covid-Lung-CT-Image-Segmentation/)** - Covid Lung CT Image Segmentation
-- **[Neural Network Framework](https://github.com/LilDataScientist/PyTorch-From-Scratch)** - PyTorch From Scratch.
+- **[AI Search Engine](https://github.com/LilDataScientist/Search-Engine)**
+- **[Covid Lung CT Image Segmentation](https://github.com/LilDataScientist/Covid-Lung-CT-Image-Segmentation/)**
+- **[Neural Network Framework](https://github.com/LilDataScientist/PyTorch-From-Scratch)**
  
 
 
