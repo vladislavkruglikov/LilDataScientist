@@ -1,7 +1,7 @@
 ## 🌇 OBJECTIVE
 
-First year student, Kaggle Expert, experienced with different programming languages & frameworks for machine
-learning and deep learning. Have some experience of development web services and desktop applications.
+First year student, **Kaggle Expert**, experienced with different programming languages & frameworks for **machine
+learning and deep learning.** Have some experience of development web services and desktop applications.
 
 ## 🌆 Contacts
 * [Kaggle](https://www.kaggle.com/lildatascientist)
