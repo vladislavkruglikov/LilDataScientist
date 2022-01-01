@@ -1,9 +1,9 @@
-## OBJECTIVE
+## 🌇 OBJECTIVE
 
 First year student, Kaggle Expert, experienced with different programming languages & frameworks for machine
 learning and deep learning. Have some experience of development web services and desktop applications.
 
-## Contacts
+## 🌆 Contacts
 * [Kaggle](https://www.kaggle.com/lildatascientist)
 * [Telegram](https://telegram.me/LilDataScientist)
 * [VK](https://vk.com/lildatascientist)
