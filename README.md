@@ -4,6 +4,6 @@ I'm First year student, **Kaggle Expert**, and I'm a machine learning engineer w
 
 
 ## Find me around the web:
-- Sharing knowlege on <a href="https://www.twitch.tv/blacktechdiva">Kaggle</a>
+- Sharing knowlege on <a href="https://www.kaggle.com/lildatascientist">Kaggle</a>
 - Tinkering with interactions on <a href="https://telegram.me/LilDataScientist">Telegram</a>
 - Sharing photos in <a href="https://vk.com/lildatascientist">VK</a> and <a href="https://www.instagram.com/lildatascientist">Instagram</a>
