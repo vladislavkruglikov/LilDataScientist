@@ -1,4 +1,4 @@
-# Hi, I'm Vladislav 👋🏾 👩🏾‍💻
+# Hi, I'm Vladislav 👨🏽‍💻
 
 I'm First year student, **Kaggle Expert**, and I'm a machine learning engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include PyTorch, Sklearn and SQL
 
